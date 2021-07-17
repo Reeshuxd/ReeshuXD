@@ -3,11 +3,13 @@
 
 [![Contact Me At Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/TheStarkXD)
 
-<h3 align="left">What I use:</h3>
-[![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)](https://Python.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript)](https://javascript.com)
-[![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHUb-ffffff?style=for-the-badge&logo=github)](https://github.com)
+<h3 align="left">My Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
+<a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
+<a align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> </p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ReeshuXD&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ReeshuXD" /></p>
 
