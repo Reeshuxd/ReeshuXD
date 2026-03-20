@@ -36,8 +36,8 @@ whoami
 | Project | What it does | Stack |
 |---|---|---|
 | [BGP Route Hijacking Lab](https://github.com/reeshuxd/BGP-Hijacking-Lab) | Replicates the 2008 Pakistan Telecom attack — 3-AS lab simulating real BGP subprefix hijacking with RPKI mitigation | FRRouting · Ubuntu · Wireshark |
-| [ESP32 Wireless Threat Monitor](https://github.com/reeshuxd) | Passive 802.11 capture device detecting deauth floods, rogue APs and evil twin attacks in real time | ESP32 · Arduino C · mbedTLS |
-| [MITM Attack Lab](https://github.com/reeshuxd) | Full MITM chain — WPA2 handshake capture, SSL-strip, session interception | Bettercap · Wireshark · Kali |
+| ESP32 Wireless Threat Monitor | Passive 802.11 capture device detecting deauth floods, rogue APs and evil twin attacks in real time | ESP32 · Arduino C · mbedTLS |
+| MITM Attack Lab | Full MITM chain — WPA2 handshake capture, SSL-strip, session interception | Bettercap · Wireshark · Kali |
 
 ---
 
@@ -55,7 +55,7 @@ whoami
 
 **Tools & Platforms**
 
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,mongodb,heroku,arduino,vscode,virtualbox&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,mongodb,heroku,arduino,virtualbox&theme=dark)](https://skillicons.dev)
 
 </div>
 
