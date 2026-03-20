@@ -1,6 +1,6 @@
 <div align="center">
 
-# reeshu ~ network security & offensive sec
+# Reeshu ~ Network Security & Offensive Sec
 
 *building tools. breaking protocols. understanding systems.*
 
@@ -43,20 +43,21 @@ whoami
 
 ### $ skills
 
-**Network**
-`BGP` `TCP/IP` `Protocol Analysis` `Packet Analysis`
-`Wireshark` `Nmap` `tcpdump` `FRRouting`
+<div align="center">
 
-**Offensive**
-`Penetration Testing` `VAPT` `Attack Surface Analysis`
-`Metasploit` `Burp Suite` `Kali Linux` `OSINT`
+**Security & Network**
 
-**Wireless**
-`IEEE 802.11` `Passive Recon` `Deauth Detection`
-`Bettercap` `Aircrack-ng`
+[![Skills](https://skillicons.dev/icons?i=kali,linux,bash,wireshark&theme=dark)](https://skillicons.dev)
 
-**Dev**
-`Python` `Go` `C/C++` `Bash`
+**Languages**
+
+[![Skills](https://skillicons.dev/icons?i=python,go,c,cpp,js,html,css&theme=dark)](https://skillicons.dev)
+
+**Tools & Platforms**
+
+[![Skills](https://skillicons.dev/icons?i=github,git,docker,mongodb,heroku,arduino&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
