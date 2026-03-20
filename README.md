@@ -1,15 +1,90 @@
-<h1 align="center">Heya 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ReeshuXD&label=Profile%20views&color=0e75b6&style=plastic" alt="ReeshuXD" /> </p>
+<div align="center">
 
-[![Contact Me At Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/reeshuxd)
+# reeshu ~ network security & offensive sec
 
-<h3 align="left">My Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
-<a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
-<p align="left"><a href="https://go.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> </p> 
+*building tools. breaking protocols. understanding systems.*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ReeshuXD&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ReeshuXD" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-reeshu-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/reeshu)
+[![Email](https://img.shields.io/badge/Email-reeshuxd@gmail.com-333?style=flat-square&logo=gmail)](mailto:reeshuxd@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ReeshuXD&show_icons=true&theme=tokyonight&locale=en" alt="ReeshuXD" /></p>
+</div>
+
+---
+```
+whoami
+───────────────────────────────────────────
+  Reeshu Singh
+  Cyber Security Intern @ IIT Madras
+  Focus : Network Security · Offensive Security
+  Based : Vadodara, India
+```
+
+---
+
+### $ current_focus
+
+- Interning at **IIT Madras** — C2 framework development,
+  firmware attack research, offensive security tooling
+- Deepening expertise in **BGP security** and
+  **network protocol exploitation**
+- Practicing **penetration testing** via TryHackMe labs
+
+---
+
+### $ projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [BGP Route Hijacking Lab](https://github.com/reeshuxd/BGP-Hijacking-Lab) | Simulates real-world BGP subprefix hijacking across 3 autonomous systems | FRRouting · Ubuntu · Wireshark |
+| ESP32 Wireless Threat Monitor | Passive 802.11 capture device with live deauth, rogue AP & evil twin detection | ESP32 · Arduino C · mbedTLS |
+| MITM Attack Simulation Lab | Full MITM chain — WPA2 capture, SSL-strip, session interception | Bettercap · Wireshark · Kali |
+
+---
+
+### $ skills
+
+**Network**
+`BGP` `TCP/IP` `Protocol Analysis` `Packet Analysis`
+`Wireshark` `Nmap` `tcpdump` `FRRouting`
+
+**Offensive**
+`Penetration Testing` `VAPT` `Attack Surface Analysis`
+`Metasploit` `Burp Suite` `Kali Linux` `OSINT`
+
+**Wireless**
+`IEEE 802.11` `Passive Recon` `Deauth Detection`
+`Bettercap` `Aircrack-ng`
+
+**Dev**
+`Python` `Go` `C/C++` `Bash`
+
+---
+
+### $ roadmap
+```
+[✓] BGP route hijacking lab
+[✓] Hardware wireless threat monitor
+[✓] MITM attack simulation
+[✓] C2 framework contribution @ IIT Madras
+[ ] eJPT certification
+[ ] HackTheBox — active machines
+[ ] OSCP (long term)
+```
+
+---
+
+### $ stats
+
+<div align="center">
+
+![Reeshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reeshuxd&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reeshuxd&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+
+</div>
+
+---
+
+<div align="center">
+<sub>always learning. always building.</sub>
+</div>
