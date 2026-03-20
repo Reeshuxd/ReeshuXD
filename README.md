@@ -12,7 +12,7 @@
 ---
 ```
 whoami
-───────────────────────────────────────────
+───────────────────────────────────────────────────
   Reeshu Singh
   Cyber Security Intern @ IIT Madras
   Focus : Network Security · Offensive Security
@@ -27,7 +27,7 @@ whoami
   firmware attack research, offensive security tooling
 - Deepening expertise in **BGP security** and
   **network protocol exploitation**
-- Practicing **penetration testing** via TryHackMe labs
+- Building real-world offensive tools and lab environments
 
 ---
 
@@ -35,9 +35,9 @@ whoami
 
 | Project | What it does | Stack |
 |---|---|---|
-| [BGP Route Hijacking Lab](https://github.com/reeshuxd/BGP-Hijacking-Lab) | Simulates real-world BGP subprefix hijacking across 3 autonomous systems | FRRouting · Ubuntu · Wireshark |
-| ESP32 Wireless Threat Monitor | Passive 802.11 capture device with live deauth, rogue AP & evil twin detection | ESP32 · Arduino C · mbedTLS |
-| MITM Attack Simulation Lab | Full MITM chain — WPA2 capture, SSL-strip, session interception | Bettercap · Wireshark · Kali |
+| [BGP Route Hijacking Lab](https://github.com/reeshuxd/BGP-Hijacking-Lab) | Replicates the 2008 Pakistan Telecom attack — 3-AS lab simulating real BGP subprefix hijacking with RPKI mitigation | FRRouting · Ubuntu · Wireshark |
+| [ESP32 Wireless Threat Monitor](https://github.com/reeshuxd) | Passive 802.11 capture device detecting deauth floods, rogue APs and evil twin attacks in real time | ESP32 · Arduino C · mbedTLS |
+| [MITM Attack Lab](https://github.com/reeshuxd) | Full MITM chain — WPA2 handshake capture, SSL-strip, session interception | Bettercap · Wireshark · Kali |
 
 ---
 
@@ -47,28 +47,34 @@ whoami
 
 **Security & Network**
 
-[![Skills](https://skillicons.dev/icons?i=kali,linux,bash,wireshark&theme=dark)](https://skillicons.dev)
+[![Security](https://skillicons.dev/icons?i=linux,bash,vim&theme=dark)](https://skillicons.dev)
 
 **Languages**
 
-[![Skills](https://skillicons.dev/icons?i=python,go,c,cpp,js,html,css&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,go,c,cpp,js,html,css&theme=dark)](https://skillicons.dev)
 
 **Tools & Platforms**
 
-[![Skills](https://skillicons.dev/icons?i=github,git,docker,mongodb,heroku,arduino&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,mongodb,heroku,arduino,vscode,virtualbox&theme=dark)](https://skillicons.dev)
 
 </div>
+
+> *Also work with: Wireshark · Nmap · Metasploit · Burp Suite ·
+> Bettercap · Aircrack-ng · FRRouting · Kali Linux ·
+> Tails OS · Tor · tcpdump*
 
 ---
 
 ### $ roadmap
 ```
-[✓] BGP route hijacking lab
-[✓] Hardware wireless threat monitor
-[✓] MITM attack simulation
+[✓] BGP route hijacking lab — 3-AS simulation
+[✓] Hardware wireless threat monitor — ESP32
+[✓] MITM attack simulation lab
 [✓] C2 framework contribution @ IIT Madras
+[✓] Firmware attack research @ IIT Madras
 [ ] eJPT certification
 [ ] HackTheBox — active machines
+[ ] Security blog / writeups
 [ ] OSCP (long term)
 ```
 
@@ -78,7 +84,7 @@ whoami
 
 <div align="center">
 
-![Reeshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reeshuxd&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+![Reeshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reeshuxd&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reeshuxd&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
 
